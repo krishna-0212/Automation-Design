@@ -37,6 +37,6 @@ The repository includes three screenshots (Step1.png, Step2.png, Step3.png) that
 
 After the automation flow runs, the extracted laptop data is saved to an **Excel file** for easy analysis and further processing.
 
-## License
+## Author
 
 Created by krishna-0212.
