@@ -39,4 +39,4 @@ After the automation flow runs, the extracted laptop data is saved to an **Excel
 
 ## License
 
-This automation is created by krishna-0212.
+Created by krishna-0212.
